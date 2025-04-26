@@ -1,4 +1,4 @@
-Hello Guys, This is my first time experience of coding on " NVIDIA Jetson Nano " and I have created a #--> Face Authenticated Posture Detection Software <--#
+
 here the steps the code follow are
 
 @ Before running the codes install the Libraries/Modules that are given in the \\ Requirements.txt \\ file , Steps are also included in the file@
@@ -70,8 +70,6 @@ now, for the video feed and sunctions I have used Opencv and its multiple functi
 
 to give a display of number of reps and the state on the display screen
 
-I am also going to add an option of posture analysis in order to check the posture of the user while performing particular exercises so as to prevent unwanted injuries and created this prototype into a full fledge software that can work like a personalized trainer and give users a better experience
 
-For More Information Checkout my video  -- https://www.youtube.com/watch?v=JnI7tQAJJA0
 
-                                       ------------------------------------ Thank You -----------------------------------------
+                                     
